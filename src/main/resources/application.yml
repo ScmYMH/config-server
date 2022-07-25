@@ -12,4 +12,3 @@ spring:
           username: Mino94
           password: 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
           force-pull: true
-          timeout: 30
